@@ -1,0 +1,7 @@
+venv/
+my_module_venv/
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+.DS_Store
